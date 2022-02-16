@@ -1,0 +1,32 @@
+2022-02-05T20:49:44+00:00 CRITICAL Uncaught Error: Call to undefined function yprm_get_theme_setting() in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php:13
+Stack trace:
+#0 /home/ezephyr3/kreativeenterprises.co.in/wp-includes/template-loader.php(106): include()
+#1 /home/ezephyr3/kreativeenterprises.co.in/wp-blog-header.php(19): require_once('/home/ezephyr3/...')
+#2 /home/ezephyr3/kreativeenterprises.co.in/index.php(17): require('/home/ezephyr3/...')
+#3 {main}
+  thrown in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php on line 13
+
+2022-02-05T21:19:18+00:00 CRITICAL Uncaught Error: Call to undefined function yprm_get_theme_setting() in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php:13
+Stack trace:
+#0 /home/ezephyr3/kreativeenterprises.co.in/wp-includes/template-loader.php(106): include()
+#1 /home/ezephyr3/kreativeenterprises.co.in/wp-blog-header.php(19): require_once('/home/ezephyr3/...')
+#2 /home/ezephyr3/kreativeenterprises.co.in/index.php(17): require('/home/ezephyr3/...')
+#3 {main}
+  thrown in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php on line 13
+
+2022-02-05T21:41:48+00:00 CRITICAL Uncaught Error: Call to undefined function yprm_get_theme_setting() in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php:13
+Stack trace:
+#0 /home/ezephyr3/kreativeenterprises.co.in/wp-includes/template-loader.php(106): include()
+#1 /home/ezephyr3/kreativeenterprises.co.in/wp-blog-header.php(19): require_once('/home/ezephyr3/...')
+#2 /home/ezephyr3/kreativeenterprises.co.in/index.php(17): require('/home/ezephyr3/...')
+#3 {main}
+  thrown in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php on line 13
+
+2022-02-05T21:53:20+00:00 CRITICAL Uncaught Error: Call to undefined function yprm_get_theme_setting() in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php:13
+Stack trace:
+#0 /home/ezephyr3/kreativeenterprises.co.in/wp-includes/template-loader.php(106): include()
+#1 /home/ezephyr3/kreativeenterprises.co.in/wp-blog-header.php(19): require_once('/home/ezephyr3/...')
+#2 /home/ezephyr3/kreativeenterprises.co.in/index.php(17): require('/home/ezephyr3/...')
+#3 {main}
+  thrown in /home/ezephyr3/kreativeenterprises.co.in/wp-content/themes/novo/404.php on line 13
+

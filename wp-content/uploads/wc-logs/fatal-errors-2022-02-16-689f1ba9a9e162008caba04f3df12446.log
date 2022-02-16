@@ -1,0 +1,66 @@
+2022-02-16T07:27:08+00:00 CRITICAL Uncaught Error: Class 'StaticHTMLOutput\Controller' not found in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php:26
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('static-html-out...')
+#2 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php on line 26
+
+2022-02-16T07:27:21+00:00 CRITICAL Uncaught Error: Class 'StaticHTMLOutput\Controller' not found in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php:26
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php on line 26
+
+2022-02-16T07:27:25+00:00 CRITICAL Uncaught Error: Class 'StaticHTMLOutput\Controller' not found in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php:26
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php on line 26
+
+2022-02-16T07:44:03+00:00 CRITICAL Uncaught Error: Class 'StaticHTMLOutput\Controller' not found in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php:26
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('static-html-out...')
+#2 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(58): activate_plugin('static-html-out...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php on line 26
+
+2022-02-16T07:44:10+00:00 CRITICAL Uncaught Error: Class 'StaticHTMLOutput\Controller' not found in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php:26
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php on line 26
+
+2022-02-16T07:44:12+00:00 CRITICAL Uncaught Error: Class 'StaticHTMLOutput\Controller' not found in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php:26
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\static-html-output-6.6.23\static-html-output.php on line 26
+
+2022-02-16T07:45:54+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in C:\xampp\htdocs\kreatives\wp-content\plugins\wp2static-7.1.7\wp2static.php:29
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('wp2static-7.1.7...')
+#2 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(58): activate_plugin('wp2static-7.1.7...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\wp2static-7.1.7\wp2static.php on line 29
+
+2022-02-16T07:46:00+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in C:\xampp\htdocs\kreatives\wp-content\plugins\wp2static-7.1.7\wp2static.php:29
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(192): plugin_sandbox_scrape('wp2static-7.1.7...')
+#2 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\wp2static-7.1.7\wp2static.php on line 29
+
+2022-02-16T07:46:02+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in C:\xampp\htdocs\kreatives\wp-content\plugins\wp2static-7.1.7\wp2static.php:29
+Stack trace:
+#0 C:\xampp\htdocs\kreatives\wp-admin\includes\plugin.php(2288): include_once()
+#1 C:\xampp\htdocs\kreatives\wp-admin\plugins.php(192): plugin_sandbox_scrape('wp2static-7.1.7...')
+#2 {main}
+  thrown in C:\xampp\htdocs\kreatives\wp-content\plugins\wp2static-7.1.7\wp2static.php on line 29
+
